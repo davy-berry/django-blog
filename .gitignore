@@ -15,3 +15,6 @@ env.py
 #os generated files
 .DS_Store
 Thumbs.db
+
+# Django stuff:
+blog/fixtures/
